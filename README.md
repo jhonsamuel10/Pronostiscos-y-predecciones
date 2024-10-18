@@ -22,14 +22,21 @@ Este proyecto se enfoca en limpiar los datos y preparar un informe que brinde in
 
 - **Python**: Lenguaje principal para el análisis y procesamiento de datos.
 - **Pandas**: Librería utilizada para la manipulación y análisis de datos.
-- NumPy: Librería para cálculos numéricos y operaciones matemáticas.
+- **NumPy**: Librería para cálculos numéricos y operaciones matemáticas.
 - **Seaborn**: Librería empleada para crear visualizaciones efectivas y atractivas de los resultados.
 - **Matplotlib**: Librerías utilizadas para crear visualizaciones claras y efectivas de los datos.
 - **Plotly**: Utilizada para crear gráficos interactivos que mejoran la visualización de los resultados.
-- **Seaborn**: Librería empleada para crear visualizaciones efectivas y atractivas de los resultados.
-- SciPy: Librería utilizada para cálculos científicos y análisis estadístico.
+- **SciPy**: cluster.hierarchy: Métodos para la agrupación jerárquica.
+- **Scikit-learn**:
+- model_selection: Herramientas para dividir los datos en conjuntos de entrenamiento y prueba.
+- preprocessing: Funciones para escalar y transformar datos.
+- linear_model: Modelos de regresión lineal para predicciones.
+- ensemble: Métodos para combinar varios modelos.
+- metrics: Métricas para evaluar el rendimiento del modelo.
+- cluster: Algoritmos para agrupar datos.
 
--  **re**: Módulo de expresiones regulares utilizado para la limpieza y procesamiento de texto en los datos.
+
+
 - **Jupyter Notebook**: Entorno interactivo para ejecutar y documentar el análisis.
 
 ## 🔄 Flujo del Proyecto 
