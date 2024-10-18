@@ -2,6 +2,11 @@
 
 Este proyecto se enfoca en limpiar los datos y preparar un informe que brinde información relevante sobre las pruebas A/B realizadas en la aplicación de la empresa. El objetivo es analizar el comportamiento del usuario para optimizar la experiencia y mejorar el rendimiento de la aplicación.
 
+## 🎯 Objetivos
+- Desarrollar un modelo predictivo que anticipe la cancelación de usuarios, permitiendo a la empresa tomar decisiones informadas sobre retención.
+- Identificar los factores clave que influyen en la decisión de cancelación, para mejorar la satisfacción del cliente y reducir la tasa de abandono.
+- Visualizar los datos de manera efectiva para comunicar los hallazgos y las tendencias relacionadas con la cancelación de usuarios.
+
 
 ## :detective: Funcionalidades del Proyecto
 
@@ -35,9 +40,9 @@ Este proyecto se enfoca en limpiar los datos y preparar un informe que brinde in
 
 - Se gestionan los valores nulos y se corrigen las inconsistencias en el conjunto de datos.
 
-- Construcción del Modelo:
+### Construcción del Modelo 🛠️
 
-Se desarrolla un modelo predictivo utilizando técnicas adecuadas para predecir la cancelación de usuarios.
+- Se desarrolla un modelo predictivo utilizando técnicas adecuadas para predecir la cancelación de usuarios.
 
 
 
