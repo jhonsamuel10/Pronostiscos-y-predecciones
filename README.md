@@ -1,6 +1,6 @@
 # :computer:Pronostiscos-y-predecciones
 
-Este proyecto se enfoca en limpiar los datos y preparar un informe que brinde información relevante sobre las pruebas A/B realizadas en la aplicación de la empresa. El objetivo es analizar el comportamiento del usuario para optimizar la experiencia y mejorar el rendimiento de la aplicación.
+Este proyecto tiene como objetivo construir un modelo que permita predecir la cancelación de usuarios. A través del análisis de datos, se busca identificar los factores que influyen en la decisión de los usuarios de cancelar su suscripción.
 
 ## 🎯 Objetivos
 - Desarrollar un modelo predictivo que anticipe la cancelación de usuarios, permitiendo a la empresa tomar decisiones informadas sobre retención.
