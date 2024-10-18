@@ -22,9 +22,13 @@ Este proyecto se enfoca en limpiar los datos y preparar un informe que brinde in
 
 - **Python**: Lenguaje principal para el análisis y procesamiento de datos.
 - **Pandas**: Librería utilizada para la manipulación y análisis de datos.
-- **Plotly**: Utilizada para crear gráficos interactivos que mejoran la visualización de los resultados.
+- NumPy: Librería para cálculos numéricos y operaciones matemáticas.
 - **Seaborn**: Librería empleada para crear visualizaciones efectivas y atractivas de los resultados.
 - **Matplotlib**: Librerías utilizadas para crear visualizaciones claras y efectivas de los datos.
+- **Plotly**: Utilizada para crear gráficos interactivos que mejoran la visualización de los resultados.
+- **Seaborn**: Librería empleada para crear visualizaciones efectivas y atractivas de los resultados.
+- SciPy: Librería utilizada para cálculos científicos y análisis estadístico.
+
 -  **re**: Módulo de expresiones regulares utilizado para la limpieza y procesamiento de texto en los datos.
 - **Jupyter Notebook**: Entorno interactivo para ejecutar y documentar el análisis.
 
